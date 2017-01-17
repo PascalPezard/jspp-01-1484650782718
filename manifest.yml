@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: jspp-01
+  host: jspp-01
+  disk_quota: 1024M
